@@ -1,5 +1,5 @@
 # sudoku-bot
-Implementation of the backtracking Sudoku-solving algorithm in Python
+Implementation of the backtracking Sudoku-solving algorithm in Python.
 
 Follow the following steps to run the program successfully:
 
